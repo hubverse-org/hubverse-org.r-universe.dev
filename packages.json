@@ -1,5 +1,9 @@
 [
     {
+        "package" : "hubverse",
+        "url" : "https://github.com/hubverse-org/hubverse"
+    },
+    {
         "package" : "hubData",
         "url" : "https://github.com/hubverse-org/hubData"
     },
