@@ -33,8 +33,7 @@
     },
     {
         "package" : "hubAdmin",
-        "url" : "https://github.com/hubverse-org/hubAdmin",
-        "branch" : "*release"
+        "url" : "https://github.com/hubverse-org/hubAdmin"
     },
     {
         "package" : "hubCI",
