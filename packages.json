@@ -33,7 +33,8 @@
     },
     {
         "package" : "hubValidations",
-        "url" : "https://github.com/hubverse-org/hubValidations"
+        "url" : "https://github.com/hubverse-org/hubValidations",
+        "branch" : "*release"
     },
     {
         "package" : "hubAdmin",
