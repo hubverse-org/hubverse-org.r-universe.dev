@@ -5,7 +5,8 @@
     },
     {
         "package" : "hubData",
-        "url" : "https://github.com/hubverse-org/hubData"
+        "url" : "https://github.com/hubverse-org/hubData",
+        "branch" : "*release"
     },
     {
         "package" : "hubEnsembles",
