@@ -22,7 +22,9 @@
     },
     {
         "package" : "hubExamples",
-        "url" : "https://github.com/hubverse-org/hubExamples"
+        "url" : "https://github.com/hubverse-org/hubExamples",
+        "branch" : "*release"
+
     },
     {
         "package" : "hubEvals",
