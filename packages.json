@@ -5,8 +5,7 @@
     },
     {
         "package" : "hubData",
-        "url" : "https://github.com/hubverse-org/hubData",
-        "branch" : "*release"
+        "url" : "https://github.com/hubverse-org/hubData"
     },
     {
         "package" : "hubEnsembles",
@@ -18,13 +17,11 @@
     },
     {
         "package" : "hubUtils",
-        "url" : "https://github.com/hubverse-org/hubUtils",
-        "branch" : "*release"
+        "url" : "https://github.com/hubverse-org/hubUtils"
     },
     {
         "package" : "hubExamples",
-        "url" : "https://github.com/hubverse-org/hubExamples",
-        "branch" : "*release"
+        "url" : "https://github.com/hubverse-org/hubExamples"
 
     },
     {
@@ -33,13 +30,11 @@
     },
     {
         "package" : "hubValidations",
-        "url" : "https://github.com/hubverse-org/hubValidations",
-        "branch" : "*release"
+        "url" : "https://github.com/hubverse-org/hubValidations"
     },
     {
         "package" : "hubAdmin",
-        "url" : "https://github.com/hubverse-org/hubAdmin",
-        "branch" : "*release"
+        "url" : "https://github.com/hubverse-org/hubAdmin"
     },
     {
         "package" : "hubCI",
