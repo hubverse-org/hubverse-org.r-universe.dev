@@ -39,5 +39,9 @@
     {
         "package" : "hubCI",
         "url" : "https://github.com/hubverse-org/hubCI"
+    },
+        {
+        "package" : "hubStyle",
+        "url" : "https://github.com/hubverse-org/hubStyle"
     }
 ]
