@@ -17,7 +17,7 @@
     },
     {
         "package" : "hubUtils",
-        "url" : "https://github.com/hubverse-org/hubUtils"
+        "url" : "https://github.com/hubverse-org/hubUtils",
         "branch" : "*release"
     },
     {
