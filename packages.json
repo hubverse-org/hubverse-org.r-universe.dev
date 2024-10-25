@@ -15,7 +15,8 @@
     },
     {
         "package" : "hubVis",
-        "url" : "https://github.com/hubverse-org/hubVis"
+        "url" : "https://github.com/hubverse-org/hubVis",
+        "branch" : "*release"
     },
     {
         "package" : "hubUtils",
