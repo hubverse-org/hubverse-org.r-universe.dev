@@ -49,6 +49,11 @@
         "branch" : "*release"
     },
     {
+        "package" : "hubDevs",
+        "url" : "https://github.com/hubverse-org/hubDevs",
+        "branch" : "*release"
+    },
+    {
         "package" : "hubStyle",
         "url" : "https://github.com/hubverse-org/hubStyle"
     }
