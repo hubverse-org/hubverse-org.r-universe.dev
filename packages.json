@@ -31,7 +31,8 @@
     },
     {
         "package" : "hubEvals",
-        "url" : "https://github.com/hubverse-org/hubEvals"
+        "url" : "https://github.com/hubverse-org/hubEvals",
+        "branch" : "*release"
     },
     {
         "package" : "hubValidations",
