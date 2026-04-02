@@ -45,6 +45,11 @@
         "branch" : "*release"
     },
     {
+        "package" : "hubPredEvalsData",
+        "url" : "https://github.com/hubverse-org/hubPredEvalsData",
+        "branch" : "*release"
+    },
+    {
         "package" : "hubCI",
         "url" : "https://github.com/hubverse-org/hubCI",
         "branch" : "*release"
